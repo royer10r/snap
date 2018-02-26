@@ -1,0 +1,13 @@
+
+  name: royer10r
+  version: '0.1'
+  summary: Testing
+  description: |
+    This is my-snap's description. 
+    
+  grade: devel
+  confinement: devmode
+
+  parts:
+    my-part:
+      plugin: nil
